@@ -35,5 +35,5 @@ We inject the cookie interception code before the webview start loading anything
 This project is created for proof of concept and there are some functionality missed.
 Currently, I only implemented JS cookie getter. JS cookie setter is not implemented.
 In addition, the cookie management is not complete. It haven't handle cookie expiration, session cookie.
-Contirbution are welcome.
+Contributions are welcome.
 
