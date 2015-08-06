@@ -3,7 +3,7 @@ A true cookie isolated webview for cocoa (Mac osx). It handles both request-leve
 
 ### Implementation
 
-Web cookies in the Mac OSX are stored in the common cookie jar. That is your app are sharing cookies with others which could be a big issue for hybird app.
+Web cookies in the Mac OSX are stored in the common cookie jar. That is your app are sharing cookies with others which could be a big issue for hybrid app.
 Thanks to SASMITO ADIBOWO and @jjconti, their excellent work archieve the Request-level cookie isolation. See:
 
 * https://github.com/jjconti/swift-webview-isolated (swift-webview-isolated)
